@@ -1,0 +1,23 @@
+{
+  "jetpack_type": {
+    "name": "energetic",
+    "disable": false,
+    "tier": 2,
+    "color": 24914464,
+    "armor_points": 4,
+    "enchantability": 15,
+    "crafting_material": "ore:ingotEnergeticAlloy",
+    "force_recipes": false
+  },
+  "jetpack_info": {
+    "capacity": 25000000,
+    "usage": 350,
+    "speed_vertical": 0.67,
+    "accel_vertical": 0.135,
+    "speed_sideways": 0.155,
+    "speed_hover_descend": 0.35,
+    "speed_hover": 0.025,
+    "sprint_speed_multi": 1.5,
+    "sprint_fuel_multi": 3.2
+  }
+}

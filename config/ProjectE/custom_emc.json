@@ -1,0 +1,184 @@
+{
+  "entries": [
+    {
+      "item": "exnihilocreatio:block_dust|0",
+      "emc": 6
+    },
+    {
+      "item": "minecraft:sand|0",
+      "emc": 2
+    },
+    {
+      "item": "minecraft:stone|5",
+      "emc": 2
+    },
+    {
+      "item": "exnihilocreatio:block_andesite_crushed|0",
+      "emc": 2
+    },
+    {
+      "item": "aether:holystone|0",
+      "emc": 4
+    },
+    {
+      "item": "exnihilocreatio:block_skystone_crushed|0",
+      "emc": 4
+    },
+    {
+      "item": "minecraft:stone|3",
+      "emc": 6
+    },
+    {
+      "item": "exnihilocreatio:block_diorite_crushed|0",
+      "emc": 6
+    },
+    {
+      "item": "aether:aether_dirt|0",
+      "emc": 1
+    },
+    {
+      "item": "aether:aether_dirt|1",
+      "emc": 2
+    },
+    {
+      "item": "aether:skyroot_planks|0",
+      "emc": 8
+    },
+    {
+      "item": "aether:skyroot_log|0",
+      "emc": 32
+    },
+    {
+      "item": "aether:green_skyroot_leaves|0",
+      "emc": 1
+    },
+    {
+      "item": "aether:aether_sapling|0",
+      "emc": 32
+    },
+    {
+      "item": "aether:aether_sapling|2",
+      "emc": 32
+    },
+    {
+      "item": "aether:aether_sapling|1",
+      "emc": 32
+    },
+    {
+      "item": "minecraft:gold_nugget|0",
+      "emc": 277
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 348
+    },
+    {
+      "item": "minecraft:sand|1",
+      "emc": 2
+    },
+    {
+      "item": "enderio:block_enderman_skull|0",
+      "emc": 12650
+    },
+    {
+      "item": "minecraft:skull|4",
+      "emc": 8576
+    },
+    {
+      "item": "minecraft:skull|2",
+      "emc": 8576
+    },
+    {
+      "item": "enderio:item_alloy_nugget|7",
+      "emc": 0
+    },
+    {
+      "item": "thaumicbases:nuggetthauminite|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:nugget|8",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:nugget|1",
+      "emc": 0
+    },
+    {
+      "item": "translocators:diamond_nugget|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:iron_nugget|0",
+      "emc": 9
+    },
+    {
+      "item": "enderio:item_alloy_nugget|0",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_nugget|1",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:nugget|4",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:nugget|2",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:nugget|6",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:nugget|7",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_nugget|5",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_nugget|4",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_nugget|3",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_nugget|2",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_alloy_nugget|6",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:arrow|0",
+      "emc": 54
+    },
+    {
+      "item": "minecraft:soul_sand|0",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:quartz|0",
+      "emc": 64
+    },
+    {
+      "item": "thaumcraft:crystal_essence|0",
+      "emc": 64
+    },
+    {
+      "item": "minecraft:rabbit_hide|0",
+      "emc": 0
+    },
+    {
+      "item": "thaumcraft:shimmerleaf|0",
+      "emc": 256
+    }
+  ]
+}

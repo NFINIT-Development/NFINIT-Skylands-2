@@ -1,0 +1,37 @@
+{
+  "ore:listAllfruit": {
+    "fluid": "water",
+    "amount": 250,
+    "color": "minecraft:leaves:0"
+  },
+  "ore:listAllveggie": {
+    "fluid": "water",
+    "amount": 250,
+    "color": "minecraft:leaves:0"
+  },
+  "minecraft:apple:0": {
+    "fluid": "water",
+    "amount": 250,
+    "color": "minecraft:leaves:0"
+  },
+  "aether:aether_sapling:1": {
+    "fluid": "water",
+    "amount": 250,
+    "color": "minecraft:leaves:0"
+  },
+  "aether:green_skyroot_leaves:0": {
+    "fluid": "water",
+    "amount": 250,
+    "color": "minecraft:leaves:0"
+  },
+  "aether:blue_skyroot_leaves:0": {
+    "fluid": "water",
+    "amount": 250,
+    "color": "minecraft:leaves:0"
+  },
+  "aether:dark_blue_skyroot_leaves:0": {
+    "fluid": "water",
+    "amount": 250,
+    "color": "minecraft:leaves:0"
+  }
+}

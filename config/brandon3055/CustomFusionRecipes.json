@@ -1,0 +1,606 @@
+[
+    {
+        "mode": "ADD",
+        "result": "appliedenergistics2:controller",
+        "catalyst": "storagenetwork:master",
+        "energy": 1000000,
+        "tier": 2,
+        "ingredients": [
+            "thaumadditions:mithrillium_ingot",
+            "thaumadditions:mithrillium_ingot",
+            "thaumadditions:mithrillium_ingot",
+            "thaumadditions:mithrillium_ingot",
+            "appliedenergistics2:fluix_block",
+            "draconicevolution:awakened_core"
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "projecte:transmutation_table",
+        "catalyst": "thaumicbases:overchanter",
+        "energy": 1000000,
+        "tier": 2,
+        "ingredients": [
+            "thaumadditions:mithminite_plate",
+            "thaumadditions:mithminite_plate",
+            "thaumadditions:mithminite_plate",
+            "thaumadditions:mithminite_plate",
+            "draconicevolution:ender_energy_manipulator",
+			"projecte:item.pe_philosophers_stone"
+
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "projecte:item.pe_rm_pick",
+        "catalyst": "projecte:item.pe_dm_pick",
+        "energy": 1000000,
+        "tier": 3,
+        "ingredients": [
+			"projecte:matter_block,1,1",
+			"projecte:matter_block,1,1",
+			"projecte:matter_block,1,1", 			
+			"projecte:matter_block,1,1",
+			"projecte:matter_block,1,1",
+			"projecte:matter_block,1,1",
+			"projecte:matter_block,1,1",
+			"projecte:matter_block,1,1"
+
+
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "projecte:item.pe_dm_pick",
+        "catalyst": "enderio:item_dark_steel_pickaxe",
+        "energy": 1000000,
+        "tier": 2,
+        "ingredients": [
+			"projecte:matter_block,1,0",
+			"projecte:matter_block,1,0",
+			"projecte:matter_block,1,0",
+			"projecte:matter_block,1,0",
+			"projecte:matter_block,1,0",
+			"projecte:matter_block,1,0",
+			"projecte:matter_block,1,0",	
+			"projecte:matter_block,1,0"
+
+
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_pick",
+        "catalyst": "enderio:item_end_steel_pickaxe",
+        "energy": 1000000,
+        "tier": 2,
+        "ingredients": [
+			"draconicevolution:draconium_ingot",
+			"draconicevolution:draconium_ingot",
+			"draconicevolution:wyvern_energy_core",
+			"draconicevolution:wyvern_core"
+
+
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "projecte:item.pe_transmutation_tablet",
+        "catalyst": "projecte:transmutation_table",
+        "energy": 1000000,
+        "tier": 2,
+        "ingredients": [
+			"fluxnetworks:fluxblock",
+			"fluxnetworks:fluxblock",
+			"fluxnetworks:fluxblock", 	
+			"appliedenergistics2:sky_stone_ block"
+		
+
+
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_helm",
+        "catalyst": "enderio:item_end_steel_helmet",
+        "energy": 250000000,
+        "tier": 1,
+        "ingredients": [
+			"draconicevolution:draconium_ingot",
+			"draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_core",
+			"draconicevolution:wyvern_energy_core"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_chest",
+        "catalyst": "enderio:item_end_steel_chestplate",
+        "energy": 100000000,
+        "tier": 1,
+        "ingredients": [
+			"draconicevolution:draconium_ingot",
+			"draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_core",
+			"draconicevolution:wyvern_energy_core"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_legs",
+        "catalyst": "enderio:item_end_steel_leggings",
+        "energy": 100000000,
+        "tier": 1,
+        "ingredients": [
+			"draconicevolution:draconium_ingot",
+			"draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_core",
+			"draconicevolution:wyvern_energy_core"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_boots",
+        "catalyst": "enderio:item_end_steel_boots",
+        "energy": 100000000,
+        "tier": 1,
+        "ingredients": [
+			"draconicevolution:draconium_ingot",
+			"draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_core",
+			"draconicevolution:wyvern_energy_core"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "projecte:item.pe_dm_armor_3",
+        "catalyst": "enderio:item_dark_steel_helmet",
+        "energy": 100000000,
+        "tier": 1,
+        "ingredients": [
+			"projecte:matter_block,1,0",
+			"projecte:matter_block,1,0",
+			"projecte:matter_block,1,0",
+			"projecte:matter_block,1,0"
+
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "projecte:item.pe_dm_armor_2",
+        "catalyst": "enderio:item_dark_steel_chestplate",
+        "energy": 100000000,
+        "tier": 1,
+        "ingredients": [
+			"projecte:matter_block,1,0",
+			"projecte:matter_block,1,0",
+			"projecte:matter_block,1,0",
+			"projecte:matter_block,1,0"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "projecte:item.pe_dm_armor_1",
+        "catalyst": "enderio:item_dark_steel_leggings",
+        "energy": 100000000,
+        "tier": 1,
+        "ingredients": [
+			"projecte:matter_block,1,0",
+			"projecte:matter_block,1,0",
+			"projecte:matter_block,1,0",
+			"projecte:matter_block,1,0"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "projecte:item.pe_dm_armor_0",
+        "catalyst": "enderio:item_dark_steel_boots",
+        "energy": 100000000,
+        "tier": 1,
+        "ingredients": [
+			"projecte:matter_block,1,0",
+			"projecte:matter_block,1,0",
+			"projecte:matter_block,1,0",
+			"projecte:matter_block,1,0"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "projecte:item.pe_rm_armor_3",
+        "catalyst": "projecte:item.pe_dm_armor_3",
+        "energy": 100000000,
+        "tier": 2,
+        "ingredients": [
+			"projecte:matter_block,1,1",
+			"projecte:matter_block,1,1",
+			"projecte:matter_block,1,1",
+			"projecte:matter_block,1,1"
+
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "projecte:item.pe_rm_armor_2",
+        "catalyst": "projecte:item.pe_dm_armor_2",
+        "energy": 100000000,
+        "tier": 2,
+        "ingredients": [
+			"projecte:matter_block,1,1",
+			"projecte:matter_block,1,1",
+			"projecte:matter_block,1,1",
+			"projecte:matter_block,1,1"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "projecte:item.pe_rm_armor_1",
+        "catalyst": "projecte:item.pe_dm_armor_1",
+        "energy": 100000000,
+        "tier": 2,
+        "ingredients": [
+			"projecte:matter_block,1,1",
+			"projecte:matter_block,1,1",
+			"projecte:matter_block,1,1",
+			"projecte:matter_block,1,1"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "projecte:item.pe_rm_armor_0",
+        "catalyst": "projecte:item.pe_dm_armor_0",
+        "energy": 100000000,
+        "tier": 2,
+        "ingredients": [
+			"projecte:matter_block,1,1",
+			"projecte:matter_block,1,1",
+			"projecte:matter_block,1,1",
+			"projecte:matter_block,1,1"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "mysticalagriculture:supremium_helmet",
+        "catalyst": "projecte:item.pe_rm_armor_3",
+        "energy": 100000000,
+        "tier": 2,
+        "ingredients": [
+			"mysticalagriculture:gear,1,9",
+			"mysticalagriculture:ingot_storage,1,5",
+			"mysticalagriculture:gear,1,9",
+			"mysticalagriculture:ingot_storage,1,5"
+
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "mysticalagriculture:supremium_chestplate",
+        "catalyst": "projecte:item.pe_rm_armor_2",
+        "energy": 100000000,
+        "tier": 2,
+        "ingredients": [
+			"mysticalagriculture:gear,1,9",
+			"mysticalagriculture:ingot_storage,1,5",
+			"mysticalagriculture:gear,1,9",
+			"mysticalagriculture:ingot_storage,1,5"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "mysticalagriculture:supremium_leggings",
+        "catalyst": "projecte:item.pe_rm_armor_1",
+        "energy": 100000000,
+        "tier": 2,
+        "ingredients": [
+			"mysticalagriculture:gear,1,9",
+			"mysticalagriculture:ingot_storage,1,5",
+			"mysticalagriculture:gear,1,9",
+			"mysticalagriculture:ingot_storage,1,5"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "mysticalagriculture:supremium_boots",
+        "catalyst": "projecte:item.pe_rm_armor_0",
+        "energy": 100000000,
+        "tier": 2,
+        "ingredients": [
+			"mysticalagriculture:gear,1,9",
+			"mysticalagriculture:ingot_storage,1,5",
+			"mysticalagriculture:gear,1,9",
+			"mysticalagriculture:ingot_storage,1,5"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "enderio:item_end_steel_helmet",
+        "catalyst": "aether:gravitite_helmet",
+        "energy": 15000000,
+        "tier": 0,
+        "ingredients": [
+			"enderio:block_alloy,1,8",
+			"enderio:item_material,1,56"
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "enderio:item_end_steel_chestplate",
+        "catalyst": "aether:gravitite_chestplate",
+        "energy": 15000000,
+        "tier": 0,
+        "ingredients": [
+			"enderio:block_alloy,1,8",
+			"enderio:item_material,1,56"
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "enderio:item_end_steel_leggings",
+        "catalyst": "aether:gravitite_leggings",
+        "energy": 15000000,
+        "tier": 0,
+        "ingredients": [
+			"enderio:block_alloy,1,8",
+			"enderio:item_material,1,56"
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "enderio:item_end_steel_boots",
+        "catalyst": "aether:gravitite_boots",
+        "energy": 15000000,
+        "tier": 0,
+        "ingredients": [
+			"enderio:block_alloy,1,8",
+			"enderio:item_material,1,56"
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "enderio:item_dark_steel_helmet",
+        "catalyst": "aether:arkenium_helmet",
+        "energy": 150000000,
+        "tier": 0,
+        "ingredients": [
+			"enderio:block_alloy,1,6",
+			"enderio:item_material,1,43"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "enderio:item_dark_steel_chestplate",
+        "catalyst": "aether:arkenium_chestplate",
+        "energy": 15000000,
+        "tier": 0,
+        "ingredients": [
+			"enderio:block_alloy,1,6",
+			"enderio:item_material,1,43"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "enderio:item_dark_steel_leggings",
+        "catalyst": "aether:arkenium_leggings",
+        "energy": 15000000,
+        "tier": 0,
+        "ingredients": [
+			"enderio:block_alloy,1,6",
+			"enderio:item_material,1,43"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "enderio:item_dark_steel_boots",
+        "catalyst": "aether:arkenium_boots",
+        "energy": 15000000,
+        "tier": 0,
+        "ingredients": [
+			"enderio:block_alloy,1,6",
+			"enderio:item_material,1,43"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "endreborn:armour_helmet_obsidian",
+        "catalyst": "nuclearcraft:helm_tough",
+        "energy": 150000000,
+        "tier": 0,
+        "ingredients": [
+			"endreborn:item_shard_obsidian",
+			"endreborn:item_ingot_endorium",
+			"endreborn:item_shard_obsidian",
+			"endreborn:item_ingot_endorium"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "endreborn:armour_chestplate_obsidian",
+        "catalyst": "nuclearcraft:chest_tough",
+        "energy": 15000000,
+        "tier": 0,
+        "ingredients": [
+			"endreborn:item_shard_obsidian",
+			"endreborn:item_ingot_endorium",
+			"endreborn:item_shard_obsidian",
+			"endreborn:item_ingot_endorium"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "endreborn:armour_leggings_obsidian",
+        "catalyst": "nuclearcraft:legs_tough",
+        "energy": 15000000,
+        "tier": 0,
+        "ingredients": [
+			"endreborn:item_shard_obsidian",
+			"endreborn:item_ingot_endorium",
+			"endreborn:item_shard_obsidian",
+			"endreborn:item_ingot_endorium"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "endreborn:armour_boots_obsidian",
+        "catalyst": "nuclearcraft:boots_tough",
+        "energy": 15000000,
+        "tier": 0,
+        "ingredients": [
+			"endreborn:item_shard_obsidian",
+			"endreborn:item_ingot_endorium",
+			"endreborn:item_shard_obsidian",
+			"endreborn:item_ingot_endorium"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "nuclearcraft:cooler,1,9",
+        "catalyst": "enderio:block_alloy,1,2",
+        "energy": 15000000,
+        "tier": 1,
+        "ingredients": [
+			"nuclearcraft:ingot_block,1,2",
+			"endreborn:item_ingot_endorium",
+			"nuclearcraft:ingot_block,1,2",
+			"endreborn:item_ingot_endorium"
+
+
+
+			
+        ]
+    },
+	{
+        "mode": "ADD",
+        "result": "projecte:condenser_mk1",
+        "catalyst": "progressivealchemy:condensertiered_8",
+        "energy": 15000000,
+        "tier": 2,
+        "ingredients": [
+			"draconicevolution:draconic_energy_core",
+			"thaumadditions:mithminite_plate",
+			"draconicevolution:energy_storage_core",
+			"thaumadditions:mithminite_plate"
+
+
+			
+        ]
+    },
+		{
+        "mode": "ADD",
+        "result": "projecte:condenser_mk2",
+        "catalyst": "projecte:condenser_mk1",
+        "energy": 15000000,
+        "tier": 2,
+        "ingredients": [
+			"draconicevolution:draconic_energy_core",
+			"thaumadditions:mithminite_plate",
+			"draconicevolution:energy_storage_core",
+			"thaumadditions:mithminite_plate"
+
+
+			
+        ]
+    }
+]

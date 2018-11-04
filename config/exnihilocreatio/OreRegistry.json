@@ -1,0 +1,52 @@
+[
+  {
+    "name": "gold",
+    "color": "ffff00",
+    "result": "minecraft:gold_ingot:-1"
+  },
+  {
+    "name": "iron",
+    "color": "bf8040",
+    "result": "minecraft:iron_ingot:-1"
+  },
+  {
+    "name": "copper",
+    "color": "eb7514",
+    "result": "nuclearcraft:ingot:0"
+  },
+  {
+    "name": "tin",
+    "color": "9ddde1",
+    "result": "nuclearcraft:ingot:1"
+  },
+  {
+    "name": "lead",
+    "color": "8d9da0",
+    "result": "nuclearcraft:ingot:2"
+  },
+  {
+    "name": "thorium",
+    "color": "202625",
+    "result": "nuclearcraft:ingot:3"
+  },
+  {
+    "name": "uranium",
+    "color": "224c2a",
+    "result": "nuclearcraft:ingot:4"
+  },
+  {
+    "name": "boron",
+    "color": "9ea5a8",
+    "result": "nuclearcraft:ingot:5"
+  },
+  {
+    "name": "lithium",
+    "color": "f2fcff",
+    "result": "nuclearcraft:ingot:6"
+  },
+  {
+    "name": "magnesium",
+    "color": "f9c5ee",
+    "result": "nuclearcraft:ingot:7"
+  }
+]

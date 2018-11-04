@@ -1,0 +1,23 @@
+{
+  "jetpack_type": {
+    "name": "vibrant",
+    "disable": false,
+    "tier": 3,
+    "color": 205238164,
+    "armor_points": 5,
+    "enchantability": 10,
+    "crafting_material": "ore:ingotVibrantAlloy",
+    "force_recipes": false
+  },
+  "jetpack_info": {
+    "capacity": 40000000,
+    "usage": 650,
+    "speed_vertical": 0.9,
+    "accel_vertical": 0.15,
+    "speed_sideways": 0.19,
+    "speed_hover_descend": 0.41,
+    "speed_hover": 0.005,
+    "sprint_speed_multi": 1.8,
+    "sprint_fuel_multi": 3.8
+  }
+}
