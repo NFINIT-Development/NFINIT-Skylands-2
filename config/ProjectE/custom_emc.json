@@ -66,7 +66,7 @@
     },
     {
       "item": "minecraft:gold_nugget|0",
-      "emc": 277
+      "emc": 228
     },
     {
       "item": "minecraft:blaze_powder|0",
@@ -110,7 +110,7 @@
     },
     {
       "item": "minecraft:iron_nugget|0",
-      "emc": 9
+      "emc": 28
     },
     {
       "item": "enderio:item_alloy_nugget|0",
@@ -179,6 +179,42 @@
     {
       "item": "thaumcraft:shimmerleaf|0",
       "emc": 256
+    },
+	{
+      "item": "minecraft:piston|0",
+      "emc": 600
+    },
+	{
+      "item": "draconicevolution:ingotDraconium|0",
+      "emc": 4096
+    },
+	{
+      "item": "enderio:item_material|32",
+      "emc": 864
+    },
+	{
+      "item": "draconicevolution:ingotDraconiumAwakened|0",
+      "emc": 8192
+    },
+		{
+      "item": "thaumadditions:mithrillium_ingot|0",
+      "emc": 11584
+    },
+		{
+      "item": "thaumadditions:adaminite_ingot|0",
+      "emc": 842560
+    },
+		{
+      "item": "thaumadditions:mithminite_ingot|0",
+      "emc": 1732480
+    },
+	{
+      "item": "fluxnetworks:flux|0",
+      "emc": 64
+    },
+	{
+      "item": "nuclearcraft:dust|8",
+      "emc": 128
     }
   ]
 }
